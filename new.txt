@@ -13,7 +13,7 @@ while y=="yes":
         else:
             x=int(input("enter no. to be deleted"))
             l.remove(x)
-            print("sucessfully deleted")
+           
     elif x==3:
         print(l)
     else:
